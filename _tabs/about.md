@@ -27,7 +27,7 @@ Machine Learning Engineer/ Data Scientist @Tencent
 
 ### Machine Learning Engineer
 <p style="display: flex; justify-content: space-between;">
-  <span>Wechat Safety Team, Tencent</span>
+  <span>Tencent</span>
   <span>2025.03 - Present | Beijing, China</span>
 </p>
 - Working on video content moderation models and their engineering optimizations (e.g., QPS, latency) for Wechat Channel and Live.
@@ -35,7 +35,7 @@ Machine Learning Engineer/ Data Scientist @Tencent
 
 ### Machine Learning Engineer(Intern)
 <p style="display: flex; justify-content: space-between;">
-  <span>Trust and Safety, TikTok, Bytedance</span>
+  <span>TikTok, Bytedance</span>
   <span>2024.03 - 2024.10 | Singapore</span>
 </p>
 - Mainly works on public opinion detection model and linkage development, including video understanding encoder and clustering model design.
